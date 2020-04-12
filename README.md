@@ -15,5 +15,5 @@ two_strings:
 - Uses set intersection
 
 Ransom Note:
-- 
+- check if a hash map is a subset of another
 - 
