@@ -17,3 +17,18 @@ two_strings:
 Ransom Note:
 - check if a hash map is a subset of another
 - 
+
+
+Sorting:
+
+Search:
+
+Dyanimic Programming:
+
+Greedy:
+
+
+Graphs:
+
+
+Trees:
