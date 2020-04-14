@@ -6,29 +6,29 @@ https://www.hackerrank.com/
 General Notes:
 
 
-Arrays:
+### Arrays:
 
 
 Dictionaries & Hash Maps:
 two_strings:
 - takes two strings and outputs whether or not they share a substring. 
 - Uses set intersection
-
+ 
 Ransom Note:
 - check if a hash map is a subset of another
 - 
 
 
-Sorting:
+### Sorting:
 
-Search:
+### Search:
 
-Dyanimic Programming:
+### Dyanimic Programming:
 
-Greedy:
-
-
-Graphs:
+### Greedy:
 
 
-Trees:
+### Graphs:
+
+
+### Trees:
